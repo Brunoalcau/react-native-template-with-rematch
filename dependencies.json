@@ -1,0 +1,12 @@
+{
+	"@rematch/core": "^1.1.0",
+	"prop-types": "^15.7.2",
+	"react-navigation": "^3.11.0",
+	"react-native-gesture-handler": "^1.2.1",
+	"babel-plugin-root-import": "^6.2.0",
+	"react-redux": "^7.0.3",
+	"styled-components": "^4.2.0",
+	"seamless-immutable": "^7.1.4",
+	"react-redux": "^7.0.3",
+	"rematch-logic": "^1.0.1"
+}
